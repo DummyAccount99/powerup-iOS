@@ -62,3 +62,6 @@ Links to the Documentation:<br />
  
 You can reach the maintainers and our community on [AnitaB.org Open Source Zulip](https://anitab-org.zulipchat.com/). If you are interested in contributing to the PowerUp, we have a dedicated stream for this project [#powerup](https://anitab-org.zulipchat.com/#narrow/stream/222537-powerup), where you can ask questions and interact with the community, join with us!
 
+// need information embedded 
+
+
